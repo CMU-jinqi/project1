@@ -47,7 +47,7 @@ yarn start  # 运行 Node.js 项目
 5. 提交 Pull Request
 
 ## 许可证
-本项目遵循 MIT 许可证，详情请见 [LICENSE](LICENSE) 文件。
+本项目遵循 MIT 许可证，详情请见 [LICENSE](LICENSE) 文件
 
 
 
